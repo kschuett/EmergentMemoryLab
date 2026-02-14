@@ -1,0 +1,25 @@
+# Document/Blog files
+*.odt
+*.docx
+*.doc
+*.txt
+.~lock.*
+
+# Virtual Environment
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
